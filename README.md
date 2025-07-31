@@ -1,23 +1,24 @@
-# VectorCraft：你的 Minecraft 精准启动引擎
+# VectorCraft：你的 Minecraft 精准启动引擎（正在开发ing
 
 [![GitHub 版本](https://img.shields.io/github/v/release/Blacklight139/VectorCraft?style=flat-square)](https://github.com/你的用户名/VectorCraft/releases)
 [![许可证](https://img.shields.io/github/license/Blacklight139/VectorCraft?style=flat-square)](LICENSE)
 [![构建状态](https://img.shields.io/github/actions/workflow/status/Blacklight139/VectorCraft/build.yml?style=flat-square)](https://github.com/Blacklight139/VectorCraft/actions)
 
-**VectorCraft** 不仅仅是一个 Minecraft 启动器。它是一个**高性能、轻量化的引擎**，专为追求速度、精准掌控和流畅方块体验的玩家设计。以矢量的精准效率，驾驭你的 Minecraft 多元宇宙。
+**VectorCraft** 不仅仅是一个 Minecraft 启动器。它是一个**高性能、轻量化的引擎**，专为追求速度、精准掌控和流畅游戏体验的玩家设计。以矢量的精准效率，驾驭你的 Minecraft 多元宇宙。
 
 ## ✨ 为什么选择 VectorCraft？
 
 *   **⚡ 极速启动:** 优化核心，资源占用低，瞬间进入你的世界。
 *   **🧭 精准版本管理:** 无缝切换 **原版、快照、Forge、Fabric、Quilt** 等版本，精确匹配你的游戏需求。
-*   **📦 高效的模组/整合包管理:** 像管理矢量一样清晰组织你的模组库和整合包，保持环境整洁。
+*   **📦 高效的模组/整合包以及开服插件管理:** 像管理矢量一样清晰组织你的模组库、开服插件和整合包，保持环境整洁。
 *   **🖥️ 简洁专注的界面:** 现代化 UI，去除冗余干扰，操作直观高效。
 *   **🔒 稳定可靠:** 坚实基础，让你专注于创造与冒险，而非启动器问题。
 *   **🧩 可扩展核心:** (若适用) 为未来功能与社区贡献做好准备。
+*   **💽 你的下一个开服器何必是开服器:** 内置frp内网穿透，让你随时随地与朋友联机，也可以当作服务器，24小时不停歇。
 
 ## 🚀 快速开始
 
-1.  **下载:** 前往 [发布页面](https://github.com/Blacklight/VectorCraft/releases) 获取最新版本。
+1.  **下载:** 前往 [发布页面](https://github.com/Blacklight139/VectorCraft/releases) 获取最新版本。
 2.  **运行:** 执行下载的文件 (如 `VectorCraft.exe`)。
 3.  **登录:** 使用你的 Minecraft 账号登录。
 4.  **配置:** 添加你需要的 Minecraft 版本和模组加载器 (如 Forge, Fabric等)。
@@ -52,4 +53,4 @@ VectorCraft 采用 **[你的许可证名称，如 MIT 许可证](LICENSE)** 发�
 
 ---
 
-**准备好规划你的方块世界航向了？立即下载 VectorCraft，体验精准高效的启动动力！ ⬇️**
+**准备好规划你的Minecraft世界航向了？立即下载 VectorCraft，体验精准高效的启动动力！ ⬇️**
