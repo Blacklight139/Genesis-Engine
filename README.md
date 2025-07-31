@@ -49,7 +49,7 @@ VectorCraft 的发展离不开社区的贡献！我们欢迎：
 
 ## 📜 许可证
 
-VectorCraft 采用 **[你的许可证名称，如 MIT 许可证](LICENSE)** 发布。
+VectorCraft 采用 **[Apace-2.0](LICENSE)** 发布。
 
 ---
 
