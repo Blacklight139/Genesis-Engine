@@ -1,7 +1,7 @@
 # VectorCraft：你的 Minecraft 精准启动引擎（正在开发ing
 
 [![GitHub 版本](https://img.shields.io/github/v/release/Blacklight139/VectorCraft?style=flat-square)](https://github.com/你的用户名/VectorCraft/releases)
-[![许可证](https://img.shields.io/github/license/Blacklight139/VectorCraft?style=flat-square)](LICENSE)
+
 [![构建状态](https://img.shields.io/github/actions/workflow/status/Blacklight139/VectorCraft/build.yml?style=flat-square)](https://github.com/Blacklight139/VectorCraft/actions)
 
 **VectorCraft** 不仅仅是一个 Minecraft 启动器。它是一个**高性能、轻量化的引擎**，专为追求速度、精准掌控和流畅游戏体验的玩家设计。以矢量的精准效率，驾驭你的 Minecraft 多元宇宙。
