@@ -3,7 +3,7 @@
 > 当启动器与服务器在此融合，你便是创世之神
 
 
-中文文档｜[English](#README_en)
+中文文档｜[English](https://github.com/Blacklight139/Genesis-Engine/blob/main/README_en.md)
 
 
 ---
