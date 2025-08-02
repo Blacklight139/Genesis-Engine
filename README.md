@@ -43,7 +43,7 @@
 
 ---
 ## 📡 加入创世计划  
-[![QQ](https://img.shields.io/badge/星海议会-Discord-7289DA)](https://qun.qq.com/universal-share/share?ac=1&authKey=vfxcItW9r6mDJLkvi3YS2ZWlKiOVurmI2ODn35VPjzNO%2B0nwUYWParTMacPx13tl&busi_data=eyJncm91cENvZGUiOiI3MDQxMTczMDYiLCJ0b2tlbiI6ImlPQXA4VU9Zc1lmZ1BRT1NTVklrOEhQUmxDQUlBWW9xS0NxdGFzOFlpWkcwckxDbjFqNERBNVBtaUpnbTcrZHMiLCJ1aW4iOiIzOTAzMjI0MTMzIn0%3D&data=t1YWqowa34iib0j56s_T1BWUnURxUY4SZUILtY47FWdyo9zcu3Zth1nqKDD8wYU5TBYrN-9J5QYdgNFjn6-fuA&svctype=4&tempid=h5_group_info)  
+[![QQ](https://img.shields.io/badge/星海议会-QQ-7289DA)](https://qun.qq.com/universal-share/share?ac=1&authKey=vfxcItW9r6mDJLkvi3YS2ZWlKiOVurmI2ODn35VPjzNO%2B0nwUYWParTMacPx13tl&busi_data=eyJncm91cENvZGUiOiI3MDQxMTczMDYiLCJ0b2tlbiI6ImlPQXA4VU9Zc1lmZ1BRT1NTVklrOEhQUmxDQUlBWW9xS0NxdGFzOFlpWkcwckxDbjFqNERBNVBtaUpnbTcrZHMiLCJ1aW4iOiIzOTAzMjI0MTMzIn0%3D&data=t1YWqowa34iib0j56s_T1BWUnURxUY4SZUILtY47FWdyo9zcu3Zth1nqKDD8wYU5TBYrN-9J5QYdgNFjn6-fuA&svctype=4&tempid=h5_group_info)  
 [![贡献指南](https://img.shields.io/badge/编写创世法典-贡献指南-blue)](CONTRIBUTING.md)  
 
 **正在寻找：**  
