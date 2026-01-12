@@ -10,14 +10,28 @@ export default defineConfig({
     electron({
       main: {
         entry: 'electron/main.ts',
-      },
+        vite: {
+          build: {
+            outDir: 'dist-electron', // 输出目录
+            lib: {
+              entry: 'electron/main.ts',
+              formats: ['cjs'] // 输出 CommonJS 格式
+            },
+            rollupOptions: {
+              output: {
+                entryFileNames: 'main.js' // 强制输出为 main.js
+              }
+            }
+          }
+        }
+      }
     }),
-    renderer(),
+    renderer()
   ],
   resolve: {
     alias: {
-      '@': resolve(__dirname, 'src'),
-    },
+      '@': resolve(__dirname, 'src')
+    }
   },
-  base: './',
+  base: './'
 })
